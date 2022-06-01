@@ -1,15 +1,14 @@
 ***👋 Hi, I’m equinyx***
-- I'm also known as Karl
+- I'm also known as karl
 
 
-***👀 I’m interested in:***
-- Art
-- Web Development
-- Discord Bots
+***👀 Interested in:***
+- Animation
+- Movies & TV
 - Programming LMAO
 
 
-***🌱 I’m currently learning:***
+***🌱 Currently learning:***
 - Node JS
 - Web Development
 
